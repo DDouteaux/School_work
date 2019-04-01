@@ -1,2 +1,3 @@
-# School_work
-Samples of work done at École Centrale de Lyob
+# School work
+
+Samples of work done at École Centrale de Lyon
